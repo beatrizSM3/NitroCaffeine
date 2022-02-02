@@ -12,6 +12,7 @@
   <a href="https://github.com/NitroCaffeine">
   <img  width="410" src="https://github-readme-stats.vercel.app/api?username=NitroCaffeine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img  width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitroCaffeine&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div> <br></br>
 <div>
   <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
@@ -31,6 +32,6 @@
   <a href= "https://open.spotify.com/user/tp711e5veh2nmskqiyzfllm19"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"  target="_blank"></a>  
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 
