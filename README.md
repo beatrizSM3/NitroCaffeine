@@ -2,7 +2,6 @@
 
 
 -🌱 Estudando Javascript, React.js e Next.js <br>
--😄 Pronouns: ela/dela <br>
 -😜 Otaku </br>
 
 
