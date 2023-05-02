@@ -2,7 +2,7 @@
 
 
 -🌱 Estudando Javascript, React.js e Next.js <br>
--😜 Otaku </br>
+
 
 
 ##
