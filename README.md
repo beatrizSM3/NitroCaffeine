@@ -10,7 +10,7 @@
 <div align="flex-start">
   <a href="https://github.com/beatrizSM3">
   <img  width="410" src="https://github-readme-stats.vercel.app/api?username=beatrizSM3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitroCaffeine&layout=compact&langs_count=7&theme=radical"/>
+  <img  width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizSM3&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div> <br></br>
 <div>
